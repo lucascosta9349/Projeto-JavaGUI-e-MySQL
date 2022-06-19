@@ -1,0 +1,2 @@
+O projeto não está completamente concluído pois faltam 
+alguns ajustes, porém, tudo relacionado ao CRUD foi concluído.
